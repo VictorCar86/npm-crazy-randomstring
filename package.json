@@ -1,0 +1,28 @@
+{
+  "name": "crazy-randomstring",
+  "version": "1.0.1",
+  "description": "This is a project made with platzi courses where you can invoke a random messages on your console.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "Node",
+    "NPM"
+  ],
+  "author": "victorcar86 <vmanuelcar@hotmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorCar86/npm-crazy-randomstring.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VictorCar86/npm-crazy-randomstring/issues"
+  },
+  "homepage": "https://github.com/VictorCar86/npm-crazy-randomstring#readme"
+}
