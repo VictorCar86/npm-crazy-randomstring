@@ -1,6 +1,6 @@
 {
   "name": "crazy-randomstring",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is a project made with platzi courses where you can invoke a random messages on your console.",
   "main": "src/index.js",
   "scripts": {
